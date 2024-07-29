@@ -18,7 +18,7 @@ Desenvolvedor Android e entusiasta de tecnologia. Tenho mais de 4 anos de experi
 - **Email:** developerpedrocarvalho@gmail.com
 - **LinkedIn:** [(https://www.linkedin.com/in/developerpedrocarvalho/)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devPedroCarvalho&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devPedroCarvalho&show_icons=true)
 
