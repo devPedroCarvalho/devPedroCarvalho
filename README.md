@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou [Pedro Carvalho]
 
-<!--
-**devPedroCarvalho/devPedroCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Android e entusiasta de tecnologia. Tenho mais de 4 anos de experiência em desenvolvimento mobile e estou atualmente mergulhando no mundo do desenvolvimento Back-end.
 
-Here are some ideas to get you started:
+## 🎓 Educação
+- **Gestão de Tecnologia** - [FIAP]
+- **Curso Técnico de Desenvolvimento de Dispositivos Móveis** - [ISTEC- Porto, Portugal]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- **Linguagens:** Kotlin, Java, SQL
+- **Ferramentas:** Android Studio, GitHub, SpringBoot, MySQL
+- **Outros:** Clean Architecture, MVVM, MVI, CI/CD, Modularização, Compose, KMM, RESTful APIs
+
+## 🧑‍💻 Projetos Destaque
+- [Grato - Aplciativo de Gratidão]([link do projeto](https://play.google.com/store/search?q=grato&c=apps&hl=pt_BR)) - Grato é um aplicativo que tem como objetivo auxiliar a saúde mental das pessoas por meio da prática da gratidão diária.
+
+## 📫 Contato
+- **Email:** developerpedrocarvalho@gmail.com
+- **LinkedIn:** [(https://www.linkedin.com/in/developerpedrocarvalho/)]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true)
