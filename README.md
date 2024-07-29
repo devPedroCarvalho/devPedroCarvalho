@@ -1,4 +1,4 @@
-# Olá! Eu sou [Pedro Carvalho]
+# Olá! Eu sou Pedro Carvalho
 
 Desenvolvedor Android e entusiasta de tecnologia. Tenho mais de 4 anos de experiência em desenvolvimento mobile e estou atualmente mergulhando no mundo do desenvolvimento Back-end.
 
@@ -12,7 +12,7 @@ Desenvolvedor Android e entusiasta de tecnologia. Tenho mais de 4 anos de experi
 - **Outros:** Clean Architecture, MVVM, MVI, CI/CD, Modularização, Compose, KMM, RESTful APIs
 
 ## 🧑‍💻 Projetos Destaque
-- [Grato - Aplicativo de Gratidão]((https://play.google.com/store/search?q=grato&c=apps&hl=pt_BR)) - Grato é um aplicativo que tem como objetivo auxiliar a saúde mental das pessoas por meio da prática da gratidão diária.
+- Grato - Aplicativo de Gratidão (https://play.google.com/store/search?q=grato&c=apps&hl=pt_BR) - Grato é um aplicativo que tem como objetivo auxiliar a saúde mental das pessoas por meio da prática da gratidão diária.
 
 ## 📫 Contato
 - **Email:** developerpedrocarvalho@gmail.com
