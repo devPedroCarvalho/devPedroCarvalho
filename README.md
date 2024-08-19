@@ -14,6 +14,11 @@ Desenvolvedor Android e entusiasta de tecnologia. Tenho mais de 4 anos de experi
 ## 🧑‍💻 Projetos Destaque
 - Grato - Aplicativo de Gratidão https://play.google.com/store/search?q=grato&c=apps&hl=pt_BR - Grato é um aplicativo que tem como objetivo auxiliar a saúde mental das pessoas por meio da prática da gratidão diária.
 
+## 🧑‍💻 Projetos que trabalhei 
+- Picpay - O PicPay é uma Instituição de Pagamento que está mudando o jeito como as pessoas lidam com o dinheiro. https://play.google.com/store/search?q=picpay&c=apps
+- Quanta Previdência - O Quanta Mobile é o aplicativo dos Planos de Previdência: Precaver, Prevcoop e Cooprev. Com ele você pode acompanhar a rentabilidade, potencializar o saldo e fazer projeções de forma digital e simplificada. [https://play.google.com/store/search?q=picpay&c=apps](https://play.google.com/store/apps/details?id=br.com.quantaPrevidencia)
+- Unicred - Aplicativo da Cooperativa de Crédito Unicred https://play.google.com/store/apps/details?id=br.com.unicredmobile 
+
 ## 📫 Contato
 - **Email:** developerpedrocarvalho@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/developerpedrocarvalho/
